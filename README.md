@@ -1,3 +1,4 @@
+![logo](https://github.com/ogikki/ogikki/blob/main/IMG_20221227_225943-01.jpeg)
 <h1 align="center">Hi 👋, I'm Yash AKA ikki</h1>
 <h3 align="center">A passionate AI developer and Gfx/Vfx artist from India</h3>
 
